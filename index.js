@@ -1,5 +1,5 @@
 const hello = () => {
-  console.log("Hello Node.js! Trying it for the firdt time");
+  console.log("Hello Node.js!");
 };
 
 hello();
